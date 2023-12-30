@@ -11,4 +11,5 @@ Tailor strategies, address commuting, and intervene by experience. Understand ge
 Identify high-turnover departments for targeted improvements. Improve job satisfaction and work-life balance for overall well-being.
 
 PDF Link:https://drive.google.com/file/d/1dP4g_amhXU-6sFeVm0G5vIltWuEZ1k95/view?usp=sharing
-PBIX Link:https://drive.google.com/file/d/1Jf7BwJfjnq49VNYNmin2b6jrq9EgO7Z_/view?usp=sharing
+
+PBIX Link:https://drive.google.com/file/d/1JA7jgpfJhUYBEqK8aRTLpq3kGtFNgtbJ/view?usp=sharing
